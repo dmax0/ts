@@ -1,11 +1,13 @@
+
 /*
  * @Author: DragonMax
  * @Date: 2022-04-10 
- * @LastEditTime: 2022-04-10 
+ * @LastEditTime: 2022-04-11 
  * @LastEditors: DragonMax
  * @Description: 
- * @FilePath: \typescript\fetchjson\index.ts
+ * @FilePath: \fetchjson\index.ts
  */
+
 import axios from "axios"
 
 const url = "https://jsonplaceholder.typicode.com/users/1"
